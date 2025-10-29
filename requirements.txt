@@ -1,4 +1,5 @@
 PySimpleGUI
+streamlit
 reportlab
 qrcode[pil]
 Pillow
