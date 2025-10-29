@@ -1,0 +1,4 @@
+PySimpleGUI
+reportlab
+qrcode[pil]
+Pillow
